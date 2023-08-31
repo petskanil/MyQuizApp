@@ -4,5 +4,5 @@
     <corners android:radius="10dp" /> <!-- Radius for rounded corners -->
     <stroke
         android:color="@color/button"
-        android:width="2dp" /> <!-- Border width -->
+        android:width="5dp" /> <!-- Border width -->
 </shape>
